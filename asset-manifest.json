@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nasimqureshi/to-do-list/static/css/main.95bc77bd.css",
+    "main.js": "/nasimqureshi/to-do-list/static/js/main.f927cfca.js",
+    "index.html": "/nasimqureshi/to-do-list/index.html",
+    "main.95bc77bd.css.map": "/nasimqureshi/to-do-list/static/css/main.95bc77bd.css.map",
+    "main.f927cfca.js.map": "/nasimqureshi/to-do-list/static/js/main.f927cfca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95bc77bd.css",
+    "static/js/main.f927cfca.js"
+  ]
+}
